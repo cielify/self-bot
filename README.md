@@ -56,7 +56,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone <repo-url>
 cd ozeu-mania
 
 # 2. Install dependencies
