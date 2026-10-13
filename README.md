@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-  ██████╗ ███████╗███████╗██╗   ██╗    ███╗   ███╗ █████╗ ███╗   ██╗██╗ █████╗
-  ██╔═══██╗╚════██║██╔════╝██║   ██║    ████╗ ████║██╔══██╗████╗  ██║██║██╔══██╗
-  ██║   ██║    ██╔╝█████╗  ██║   ██║    ██╔████╔██║███████║██╔██╗ ██║██║███████║
-  ██║   ██║   ██╔╝ ██╔══╝  ██║   ██║    ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██╔══██╗
-  ╚██████╔╝   ██║  ███████╗╚██████╔╝    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██║  ██║
-   ╚═════╝    ╚═╝  ╚══════╝ ╚═════╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
-```
-
 **A lightweight Discord utility toolkit: bulk cleanup, channel exports, deleted-message viewing, lookups, and friend automation, all driven by simple `.` commands.**
 
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)
