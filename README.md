@@ -138,22 +138,6 @@ Settings are stored in `~/ozeu-mania/config.json` and updated automatically when
 
 You can also edit the file by hand while the tool is stopped.
 
----
-
-## File Layout
-
-Everything the tool writes lives under `~/ozeu-mania/`:
-
-```
-~/ozeu-mania/
-├── config.json        # Persisted settings (autoAccept, mutualDetect)
-├── exports/           # Channel message exports from .export
-└── logs/
-    └── <session>/     # One folder per run
-        ├── mutuals            # Mutual friend activity
-        ├── friend requests    # Incoming/accepted requests
-        └── exports log        # Record of exports made
-```
 
 ---
 
