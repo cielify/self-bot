@@ -129,8 +129,6 @@ Commands can also be entered directly in the terminal, where you can target a ch
 
 ## Configuration
 
-Settings are stored in `~/ozeu-mania/config.json` and updated automatically when you use the toggle commands.
-
 | Setting        | Toggled by           | Description                               |
 | -------------- | -------------------- | ----------------------------------------- |
 | `autoAccept`   | `.a` / `.fq`         | Automatically accept incoming friend requests |
