@@ -47,7 +47,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone <>
+git clone https://github.com/mahiels/self-bot
 cd ozeu-mania
 
 # 2. Install dependencies
