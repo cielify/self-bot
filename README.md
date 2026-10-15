@@ -48,7 +48,7 @@
 ```bash
 # 1. Clone the repo
 git clone https://github.com/mahiels/self-bot
-cd ozeu-mania
+cd self-bot
 
 # 2. Install dependencies
 npm install
